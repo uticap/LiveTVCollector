@@ -1,5 +1,5 @@
 {
-  "date": "2026-04-30 09:14:25",
+  "date": "2026-04-30 15:42:10",
   "channels": {
     "Religious": [
       {
@@ -37493,6 +37493,34 @@
         "group": "Adults Only (XXX)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://sdn-global-live-streaming-packager-cache.3qsdn.com/9528/9528_264_live.m3u8"
+      },
+      {
+        "name": "a3Bikini",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Adults Only (XXX)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://rpn3.bozztv.com/dvrfl07/ushba-t2/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Rouge TV",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Adults Only (XXX)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://59ec5453559f0.streamlock.net/cuaimap/_definst_/cuaimap/chunklist_w1620163030.m3u8"
+      },
+      {
+        "name": "Afreeca",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Adults Only (XXX)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://glb.bozztv.com/glb/ushba43/index.m3u8"
+      },
+      {
+        "name": "BXX",
+        "logo": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg",
+        "group": "Adults Only (XXX)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://fl1004.bozztv.com/ushba-mafia/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "Adult IPTV Live Cams",
