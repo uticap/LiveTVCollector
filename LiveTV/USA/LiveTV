@@ -1650,6 +1650,12 @@
     "img": "https://i.imgur.com/1603HED.png"
   },
   {
+    "name": "Rally TV (1080p)",
+    "type": "Sports",
+    "url": "https://rally-tv-live.akamaized.net/hls/live/2117704/RallyTV-Pri/master.m3u8",
+    "img": "https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png"
+  },
+  {
     "name": "like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0\" group-title=\"Sports\",SportsGrid (1080p)",
     "type": "Sports",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/sportsgrid/master.m3u8?ads.vf=8ukz5gCI8vu",
@@ -1947,6 +1953,12 @@
     "name": "Fubo Sports Network",
     "type": "Sports",
     "url": "http://offplatform-midas.fubo.tv/v1/master/cf8aed8001539cb4cab4963801d5f2cda8d77a1e/production-sportsnet/fsn/master.m3u8",
+    "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
+  },
+  {
+    "name": "PlayersTV",
+    "type": "Sports",
+    "url": "https://linear-656.frequency.stream/dist/playerstv/656/hls/master/playlist.m3u8",
     "img": "https://icon2.cleanpng.com/20180423/eyq/kisspng-television-antenna-computer-icons-aerials-tv-antenna-5add88e2c26080.2767419415244679387962.jpg"
   },
   {
