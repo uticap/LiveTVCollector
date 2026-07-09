@@ -2467,7 +2467,7 @@ Logo: https://raw.githubusercontent.com/iprtl/p1/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: CNN Portugal 🇵🇹
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozOToyNSBQTSZoYXNoX3ZhbHVlPXk4NTNtK1dvWXZYNCtHS2xvNmRGdHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lNGM0ZjJiNy1mNTgyLTQwMDMtOGYwZi1lZjEzZTM2ZWFjNTg=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/cnnpt.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2853,7 +2853,7 @@ Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI Internacional 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozOToyNiBQTSZoYXNoX3ZhbHVlPS9vMjFSQXo4ZzhNSDQ5Zk9EY1lBR0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMjk4NTBjZi00NzQ4LTQ0NTItODE0OC0yNWNmZGQ4MjdkNjI=/
 Logo: https://logo.m3uassets.com/tviinternacional.png
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -2863,7 +2863,7 @@ Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
 Name: TVI 🇵🇹
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjYgMzozOToyNSBQTSZoYXNoX3ZhbHVlPWcyRzJsTnVDSDYybTkrQ255WFFXMnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03MWI5OWQwZi05MTk5LTQwODktYjRkZS00ZjJkOGI2ZjlkZmE=/
 Logo: https://github.com/iprtl/p1/raw/master/logo/tvi.webp
 Source: https://raw.githubusercontent.com/iprtl/m3u/live/Freetv.m3u
 --------------------------------------------------
@@ -3336,7 +3336,7 @@ Logo: https://i.imgur.com/Ff5mj0o.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
 Name: Chaves 24H
-URL: https://fa723fc1b171.sae13.playlist.live-video.net/v1/playlist/CrAFRepvkaeAqAwsvbdzcQUwTAtY0QpRa1htxDoSuS_WSELwAJF-SnK5wHLPQbO81aBGM6k_6cEmRhGrLhW6Ne9xWBr8C7ucMaaq-3g8StDD4g12NnmfiBMqOGu4UZjFj2E8wA_CAKIzD0F5qEPH5Hllf2CAWpfEOsC_S7jlXsRL5RCi8mtTeJfwMryyaBPlLsJIRk8LSOgca4lP9lqHwOJ5g5_VmTq4OeMCWpvtQehvpRdJcXl0hWUWgx7NPlEZnjgEF58L1msBhc2VDBkMbpw1AJcgU0Zm2yf6ampIujmWDL4AroHpXdJLSuXEIm4b5ZJkKPByNGtfByjsVrRzrkLG2hA__sjlNBfch0dxV3LDaulZoqAN6Ef1Ckb9MXyjXByqxoIe1dS1zARFWdYvLxKeYixPvkDmM5vKT4fcdGUGKaBCmPfZ-SqMIL6EKX53-Eb7ZHchLx-UzgIzHqXMO1dgVWmJ2M_RX0_auuTkBqlh7owx32mU46mbVZBG7xlu1Qj3s2siPaBYQZKh9H7uZSOQ0aF0xsYbCSecJ5OvK9mgxjn0mciTKnBB8QCtST1juPLIyNRV1P1AWdWz8LP10lJF-X4wijtqLre8Qby59bv7uXu97_f8UkK6E75HVplt1EUIT2KEW5rCUW8vZ_eAWNQWEPZVi4QBxYb0-yePrg7h2ucNOdnd_mruTt1lrxnEdzKre7uCb_ewGBD7bWcfLw3ASYXYwOvfEMDNb7A5J5LlLWjMZ-GNXhFgqWpaIKpN5eNz5UJtxaSEoVC5l4zBKMW07fklhsykDTAZLlKklqmEc6-2RVjSWj0wk5mQUFLbIUb1hVPTQZk23PPzQZ_j7T2Ej3XsGTJvk2yPUatN_f2g-fc-RWV2kyfdR1FF9GCgmwTSFgcG4S_ScYf2RBitFrpIxxoM-tJfTFN1slAOcJoJIAEqCXVzLWVhc3QtMjDGDw.m3u8
+URL: https://fa723fc1b171.sae11.playlist.live-video.net/v1/playlist/CrIFSUcGyaTQIp7tLkrJzDfY3edMx-KlbLE6CkdBUktr3ENM1IBqz5e8Bvek9upjBJ3DlStxipnFMNQGkrIvfBBOhzQ8v7e_mMZCZWmnJS2Z3D4kBj__A3KBgaT_AQXixRMen0glbPqR3uF2IlFdmXjVgU--DpefO7JIDRK4AS1HiCLKxLrNGABd2M6h4YjER80-iwLvyX_GaM3KwBNuXPUZc9AEIxXSmeRVCCPveOkmxDPE6ctwf58G4ChyLgWs_bje1ajXVNPXrm57JFKpcS8dU6K_mOMAf53vlL0ARpamepMphD-HJp1n6cL1teyGbuaSFWEduDi4Y0J9aPxq28RtIy5SbeSU7XnMYuGgYlqlA-NK41Gyn5J7EUVHG8RX6EYLuwDqEAwueR5RabcmnFg48pYvwQS7t4WJ-1cux-AmZ7Kadg6z0yWVjFl6OJ9C84Lc9A5nc9i4mC2gmmoLIgSUYeEoXsfJNwg8aKt11mLsZ2ZGa97x77aXKHpyf_xR1AmgiLiMZPuGViIMgGcEcpkp5NsNvrVayytL87Bwe6qIkTEw0WHDCPHjl5NghRPhtj1DFHzHyKGkx3GJp0UoHrsH1RxFan0zA1A1DtW_2XnZxbBMvNM6Og6EiovKToYMA_S6kcyhprVIkG4mrZSCqGtoGbwj9ogH0I_FMiyP8IfDNOnl6jONwxzF8sgmfC3jmwKCc3jkgdN-hTDbnCZk0GIb8VK-dhJDpv0iVa0ol5ncxQ_RolGZODJlnEgy7e_RNpY8BJWLkCbzO3HrIMlC2S0KFJMNodGWOfKuRbBS2T95S7BN6WAxhvuAcltpM368PuS54uCcwrsGn1z5btNdDUhK_Xmb843-MEjmH5TFHu69I2kdFKtGv2JIDDId2VdkXg3vJCIUESkq_3F3Wb0wN1vxVaVvGgyxp3Q1ZxJiKdDV5SIgASoJdXMtZWFzdC0yMMYP.m3u8
 Logo: https://static-cdn.jtvnw.net/jtv_user_pictures/ddca22fb-c604-4609-b129-6613ac861ed5-profile_image-70x70.png
 Source: https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u
 --------------------------------------------------
